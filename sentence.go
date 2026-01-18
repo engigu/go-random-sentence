@@ -10,6 +10,7 @@ import (
 	"sync"
 )
 
+
 //go:embed src/sentence1-10000.json
 var sentenceData []byte
 
